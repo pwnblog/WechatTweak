@@ -1,0 +1,4 @@
+module WechatTweakC {
+    umbrella "."
+    export *
+}

@@ -1,0 +1,9 @@
+Package: com.hopeless.wechatweak
+Name: WechatTweak
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Description: Simple Wechat NoAds
+Maintainer: hopeless
+Author: hopeless
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 15.0)
